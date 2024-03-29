@@ -1,7 +1,12 @@
-### Hi there 👋
+<h1>Hi, I'm Callum! <br/>Aspiring Bioinformatician</h1>
+
+<h2>👨‍💻 Data Analysis Projects:</h2>
+
+
+<h2>🔭 I'm Currently Working On:</h2>  
+
 
 <!--
-**callumdepasquale/callumdepasquale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
